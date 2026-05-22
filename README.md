@@ -15,3 +15,6 @@ This project implements a high-availability monitoring system across 5 logical l
 - **Sensor Failover:** Logic-based temperature selection (DHT11 > NTC).
 - **Data Integrity:** Discards incomplete readings if humidity data is missing.
 - **Production-Ready:** All components run as `systemd` background services.
+
+
+<img width="572" height="629" alt="image" src="https://github.com/SarvanshRaj/sensor_project/blob/main/image.png?raw=true" />
